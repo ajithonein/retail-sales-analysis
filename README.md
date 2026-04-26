@@ -1,6 +1,3 @@
-# retail-sales-analysis
-
-
 # Retail Sales Analysis
 
 This project analyzes retail sales data to identify sales trends, top-performing products, customer purchasing behavior, and seasonal patterns.
